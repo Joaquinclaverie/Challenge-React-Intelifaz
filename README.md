@@ -1,8 +1,8 @@
 # Componente App que contiene los siguientes 3 componentes:
 
-Un componente con un Form para crear nuevos usuarios
-Un componente que muestra un listado de usuarios, cada usuario con un boton de Detalles de ese usuario y un boton para Eliminar ese usuario
-Un componente que muestra los detalles de ese usuario cuando se presiona el boton de Detalles
+### Un componente con un Form para crear nuevos usuarios
+### Un componente que muestra un listado de usuarios, cada usuario con un boton de Detalles de ese usuario y un boton para Eliminar ese usuario
+### Un componente que muestra los detalles de ese usuario cuando se presiona el boton de Detalles
 
 
 ## Scripts para ejecutar la App
